@@ -11,7 +11,7 @@ def hitung_total(tabung):
 
 #prosedur
 def cetak_rincian(tabung):
-    print(f"Rincian Tabungan")
+    print(f"=== Rincian Tabungan ===")
     print(f"riwayat nabung: {tabung}")
     print(f"total celengan: {hitung_total(tabung)}")
     
